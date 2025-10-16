@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "wndxTheme",
+  "baseFontSize": 17,
+  "baseFontSizeAction": false,
+  "showRibbon": true,
+  "interfaceFontFamily": "ABC Ginto Discord,Monocraft",
+  "textFontFamily": "gg sans,Brass Mono Code",
+  "monospaceFontFamily": "Brass Mono Code",
+  "theme": "obsidian",
+  "translucency": true
+}

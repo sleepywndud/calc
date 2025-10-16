@@ -1,0 +1,25 @@
+{
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 85
+  },
+  "spellcheckDictionary": [
+    "whānau"
+  ],
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "foldHeading": true,
+  "strictLineBreaks": true,
+  "tabSize": 4,
+  "trashOption": "local",
+  "rightToLeft": false,
+  "showIndentGuide": true
+}

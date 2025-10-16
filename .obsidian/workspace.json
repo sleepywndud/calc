@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "33db324898897492",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e1959a2cff33f06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4e41ac6a2612f4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "introduction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b489d10a08bdb647",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ad514bed06874ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35b6c6c3a2d81aa1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "93aead06e3560ea7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 797.5
+  },
+  "right": {
+    "id": "6f581bab5638a59e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5992c9b92b3564e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa18b561172d862d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1dba00ce3d7a8a28",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "markdown-importer:Open format converter": true,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": true,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "float-search:Search obsidian in modal view": false
+    }
+  },
+  "active": "c4e41ac6a2612f4c",
+  "lastOpenFiles": [
+    "README.md",
+    "LICENSE.md",
+    "1. Differentiation/1. f(x)?.md",
+    "1. Differentiation/2. Differentiating.md",
+    "!img/Pasted image 20251017104740.png",
+    "!img/Pasted image 20251017104724.png",
+    "!img/Pasted image 20251017104715.png",
+    "!img/Pasted image 20251017104610.png",
+    "introduction.md",
+    "wndx2/2. Area/! school/Year 11/L1SCIE/Phys - 92045/12.10.2025 - Exam Prep.md",
+    "wndx2/4. Archive/Pasted image 20251008104445.png",
+    "Untitled.base",
+    "Untitled 1.base",
+    "wndx2/3. Resource/Locker/$15.md",
+    "wndx2/3. Resource/Locker/C.md",
+    "wndx2/3. Resource/Locker/Vanilla AMOLED CSS.md",
+    "wndx2/3. Resource/Locker/quotes.md",
+    "wndx2/3. Resource/Locker/Tokyo Night (nStorm) CSS.md",
+    "wndx2/3. Resource/Locker/tt momentjs config.md",
+    "wndx2/3. Resource/Locker/wnd2dy.png",
+    "wndx2/3. Resource/Pasted image 20250716130550.png",
+    "wndx2/3. Resource/Pasted image 20250818151527.png",
+    "wndx2/3. Resource/91264_Prep_Sheet.png",
+    "wndx2/3. Resource/Dsc.md",
+    "wndx2/3. Resource/Blue Eraser Cover Dimensions.md",
+    "wndx2/3. Resource/Fantastic Piece of Literatures.md",
+    "wndx2/3. Resource/Font Glyph.md",
+    "wndx2/3. Resource/LICENSE ACTIONS.md",
+    "wndx2/3. Resource/Supported Callout Types.md",
+    "wndx2/3. Resource/Locker/91261 2025 OTC Exam Paper.md",
+    "wndx2/3. Resource/huile genshin pfp evidence.md",
+    "wndx2/3. Resource/huile.md",
+    "wndx2/3. Resource/Wndx2.github.io.md",
+    "wndx2/3. Resource/AMC Intermediate Division 2017.md",
+    "wndx2/3. Resource/website add.md",
+    "wndx2/4. Archive/lunar_phases.png",
+    "wndx2/2. Area/! school/Year 11/L1COMM/Financial Viabilities/15.10.2025 - Supply ⁄ Demand.md",
+    "wndx2/2. Area/Diagrams/Excalidraw/Drawing 2025-10-15 12.55.16.excalidraw.md",
+    "wndx2/2. Area/Diagrams/Excalidraw",
+    "wndx2/2. Area/! school/Year 11/L1COMM/Financial Viabilities",
+    "wndx2/2. Area/afterschool/csh/33 - Mock Prep",
+    "wndx2/2. Area/afterschool/csh/32 - Mock Prep",
+    "wndx2/2. Area/afterschool/csh/31 - Calc",
+    "wndx2/2. Area/afterschool/csh/30 - Calc",
+    "wndx2/2. Area/afterschool/csh/29 - Calc",
+    "wndx2/2. Area/afterschool/csh/28 - Calc",
+    "wndx2/2. Area/diagrams/Canvas/Untitled.canvas",
+    "wndx2/2. Area/diagrams/Canvas/Untitled 2.canvas",
+    "wndx2/2. Area/diagrams/Canvas/DTSD Planning 1.canvas",
+    "wndx2/2. Area/diagrams/Canvas/Untitled 1.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Escuela/2025/L1SPAN/Untitled.canvas",
+    "FoodWeb.canvas",
+    "2025/L1SCIE/Bio - 91920/FoodWeb.canvas",
+    "2025/L1SCIE/Bio - 91920/FoodWeb 1.canvas"
+  ]
+}

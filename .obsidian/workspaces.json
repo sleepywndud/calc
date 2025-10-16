@@ -1,0 +1,169 @@
+{
+  "workspaces": {
+    "__init__": {
+      "main": {
+        "id": "33db324898897492",
+        "type": "split",
+        "children": [
+          {
+            "id": "5f2c0457c0a2c64e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e6d4da3d8a125816",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b489d10a08bdb647",
+        "type": "split",
+        "children": [
+          {
+            "id": "8ad514bed06874ca",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "35b6c6c3a2d81aa1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTime",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "93aead06e3560ea7",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "e843e93250ec3f49",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 286.5
+      },
+      "right": {
+        "id": "6f581bab5638a59e",
+        "type": "split",
+        "children": [
+          {
+            "id": "5b5033be5fe386f6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "05750bf833047072",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "416ec52b89ded649",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "복원.md"
+                  },
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "6419d16407a8eadb",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "a93e1570590b0d70",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "2. Area/! school/2025/L1COMM/92029/01.05.2025 - Practice 92029.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 232.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "markdown-importer:Open format converter": true,
+          "random-note:Open random note": false,
+          "audio-recorder:Start/stop recording": true,
+          "workspaces:Manage workspace layouts": false,
+          "publish:Publish changes...": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "obsidian-excalidraw-plugin:New drawing": false
+        }
+      },
+      "active": "e6d4da3d8a125816",
+      "mtime": "2025-08-19T09:22:48+12:00"
+    }
+  },
+  "active": "__init__"
+}

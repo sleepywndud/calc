@@ -1,0 +1,12 @@
+{
+  "output": "package-",
+  "attachment": "img",
+  "displayImageAsHtml": true,
+  "GFM": false,
+  "fileNameEncode": true,
+  "removeOutgoingLinkBrackets": false,
+  "includeFileName": false,
+  "customFileName": "",
+  "customAttachPath": "img/",
+  "relAttachPath": true
+}

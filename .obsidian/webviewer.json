@@ -1,0 +1,8 @@
+{
+  "openExternalURLs": true,
+  "enableAdblocking": true,
+  "customSearchEngine": "https://duckduckgo.com/?q=%s",
+  "searchEngine": "google",
+  "markdownPath": "Trash",
+  "homepage": "file:///Users/jamespark/Documents/GitHub/wndx2bmysn8gcfe5nvhrc014ld1jnczyaqq43erq5p4kagrxya6lkb4hk4ilvo5n62s0d8zlhyiuijtck8bda9cp9k9kffxagyyh/index.html"
+}
